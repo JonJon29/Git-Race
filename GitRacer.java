@@ -14,6 +14,7 @@ public class GitRacer {
 	static void teamMember1()
 	{
 		System.out.println("ToDo");
+        System.out.println("Test");
 	}
 	
 	static void teamMember2()
